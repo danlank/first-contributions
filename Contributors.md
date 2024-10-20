@@ -13,6 +13,7 @@
 - Hello i am Jzz.
 - Hi I am Alex Maxwell.
 - Hi I am Akshat Tripathi
+- Hi I am Daniel
 - Hi, I'm [Ruan Carlos](https://github.com/Ruan-CRC)
 - Hi i am fazil !!(https://github.com/MuhammedFazilPc)
 - Hello, I'm Chinwe Ibeziako. This is my first open-source contribution.
